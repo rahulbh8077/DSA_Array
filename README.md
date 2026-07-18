@@ -47,13 +47,6 @@ DSA-Array/
 
 This repository represents my ongoing journey of learning and mastering **Data Structures and Algorithms**. New problems, concepts, and optimized solutions will be added regularly as I continue improving my DSA skills.
 
-## 🤝 Contributions
-
-Suggestions, improvements, and optimized approaches are always welcome. Feel free to explore the repository and share your feedback.
-
-## 👨‍💻 Author
-
-**Rahul Bhadoriya**
 
 ⭐ If you find this repository useful, consider giving it a star!
 
